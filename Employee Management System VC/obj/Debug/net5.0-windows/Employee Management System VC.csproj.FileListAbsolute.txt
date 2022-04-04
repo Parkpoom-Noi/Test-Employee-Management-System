@@ -1,0 +1,16 @@
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\bin\Debug\net5.0-windows\Employee Management System VC.exe
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\bin\Debug\net5.0-windows\Employee Management System VC.deps.json
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\bin\Debug\net5.0-windows\Employee Management System VC.runtimeconfig.json
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\bin\Debug\net5.0-windows\Employee Management System VC.runtimeconfig.dev.json
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\bin\Debug\net5.0-windows\Employee Management System VC.dll
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\bin\Debug\net5.0-windows\ref\Employee Management System VC.dll
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\bin\Debug\net5.0-windows\Employee Management System VC.pdb
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\obj\Debug\net5.0-windows\Employee Management System VC.csproj.AssemblyReference.cache
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\obj\Debug\net5.0-windows\Employee Management System VC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\obj\Debug\net5.0-windows\Employee Management System VC.AssemblyInfoInputs.cache
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\obj\Debug\net5.0-windows\Employee Management System VC.AssemblyInfo.cs
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\obj\Debug\net5.0-windows\Employee Management System VC.csproj.CoreCompileInputs.cache
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\obj\Debug\net5.0-windows\Employee Management System VC.dll
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\obj\Debug\net5.0-windows\ref\Employee Management System VC.dll
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\obj\Debug\net5.0-windows\Employee Management System VC.pdb
+C:\Users\poom_\source\repos\Employee Management System VC\Employee Management System VC\obj\Debug\net5.0-windows\Employee Management System VC.genruntimeconfig.cache
